@@ -1,0 +1,6 @@
+Núm. Factura: 001
+Nombre de la empresa: Carnicería Lucas
+NIF empresa: G-67654332
+Nombre cliente: Alba González
+NIF cliente: 78765454R
+Importe: 35.7€

@@ -1,0 +1,6 @@
+Núm. Factura: 002
+Nombre de la empresa: Pescadería Julia
+NIF empresa: X-12345678
+Nombre cliente: Julia Malvido
+NIF cliente: 12345768L
+Importe: 300.0€
