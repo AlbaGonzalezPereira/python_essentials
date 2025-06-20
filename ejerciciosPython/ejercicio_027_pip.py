@@ -1,3 +1,4 @@
+# la librería gTTS (Google Text-to-Speech) sirve para convertir texto en voz usando el motor de voz de Google
 # pip install gTTS desde el cmd
 from gtts import gTTS
 import os
