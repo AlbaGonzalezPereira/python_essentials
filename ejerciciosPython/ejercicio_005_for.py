@@ -4,7 +4,7 @@ for numero in numeros:
     print(numero*2,end='-')
 
 #EJERCICIO:
-# Hacer una lista con 5 nombres propios
+# Haced una lista con 5 nombres propios
 nombres = ['Juan', 'Ana', 'Pedro', 'Sofía', 'Nuria']
 
 #Recorred lista y preguntad si el nombre contiene la letra 'a'

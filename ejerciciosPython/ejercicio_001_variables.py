@@ -8,5 +8,5 @@ _ = 30
 
 print(edad_maxima)
 
-nombre = 'Fernando' #la cadena de caracteres puede ir con comillas simples o dobles
+nombre = 'Fernando' #la cadena de caracteres puede ir entre comillas simples o dobles
 print(nombre)
